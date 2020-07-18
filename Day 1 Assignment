@@ -1,0 +1,33 @@
+Day 1 Assignment:
+ 
+1. What is your understanding of Blockchain? 
+-Blockchain is a combination of a distributed database and cryptography.
+Blockchain is the safest form of storing data.
+Blockchain = Block (Piece of database which updates in every 10 Seconds with encryption key) + Chain( Storing database on different Servers all are storing the same data but with there own key).
+
+2. What are the core problems Blockchain trying to solve?
+-Blockchain stops Hacking of data.
+Also provides Authenticity, security.
+If one of the data will change from the database it will throw an error.
+By using blockchain updates and delete don’t happen on datadatabase because it will create another key.
+
+3. What are the few features which Blockchain will give you?
+-BlockChain provides: -
+
+• Verifiable Facility (Which means it verifies every copy is the same.)
+
+• Unchangeable (Data doesn’t change at any cost.)
+
+• Tamper-proof (Data is changing in 10sec and every block contains encryption key if data will change then the key will also change and it will show an error with other blocks that’s how it is Tamper-proof).
+
+• Immutable (It means data will never destroy or delete or unchaining.)
+
+
+4. What all things block contains?
+-A Block contains its number, records, Previous block key, Mining key.
+Block contains above all things which are important for a block to make a blockchain without these things blockchain doesn’t form.
+
+5. How is the verifiability of Blockchain has been attained?
+-The Blockchain contains a block of data.
+Block is connected to each other and they contain previous block key and also they generates their own key if any changes happen in data the key will change automatically and the rest of the block also tells changes made in data by verifying the previous block key.
+And these blocks are stored on different servers if one of them gets deleted then it is easy to recover from others.
